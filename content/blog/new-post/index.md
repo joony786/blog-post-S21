@@ -8,7 +8,7 @@ A computer engineer having deep interest in web designing with enough experience
 
 An avid team worker, who is always ready to help his fellow developers with his experience, and gets along well along with his teammates due to excellent communication skills, which help in achieving the desired results with all types of clients and colleagues.
 
-![blog-1](./blog-1.jpg)
+![blog-1](./profile-img.jpg)
 
 ### UI/UX Designer & Web Developer.
 
@@ -30,11 +30,3 @@ AngularJS-powered HTML5 Markdown editor.
 - Type some Markdown on the left
 - See HTML in the right
 - ✨Magic ✨
-
-## Features
-
-![blog-3](./blog-2.jpg)
-![blog-3](./blog-3.jpg)
-![blog-4](./blog-4.jpg)
-![blog-5](./blog-5.jpg)
-![blog-6](./blog-6.jpg)
