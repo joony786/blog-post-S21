@@ -31,11 +31,13 @@ const BlogPostTemplate = ({ data, location }) => {
               <div class="published"><time>Last Updated: {post.frontmatter.updated}</time></div>
           }
         </header>
-
+        <div className='outer'>
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}
           itemProp="articleBody"
+          className='inner'
         />
+        </div>
       </article>
       <nav className="blog-post-nav">
         <ul

@@ -4,13 +4,27 @@ date: "2021-08-20T22:12:03.284Z"
 description: "random md"
 ---
 
+# About
 
-# Dillinger
-## _The Last Markdown Editor, Ever_
+A computer engineer having deep interest in web designing with enough experience in UI/UX design; long hours spent on practicing and perfecting graphics design tools such as Adobe Photoshop, Illustrator and Effects; and coding in CSS, HTML, and JavaScript for making quality websites and content for his previous employers.
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+An avid team worker, who is always ready to help his fellow developers with his experience, and gets along well along with his teammates due to excellent communication skills, which help in achieving the desired results with all types of clients and colleagues.
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+![blog-1](./blog-1.jpg)
+
+### UI/UX Designer & Web Developer.
+
+A computer engineer having deep interest in web designing with enough experience in UI/UX design; long hours spent on practicing and perfecting graphics design tools such as Adobe Photoshop, Illustrator and Effects; and coding in CSS, HTML, and JavaScript for making quality websites and content for his previous employers.
+
+- Birthday: 21st April 1994
+- Website: www.example.com
+- Phone: +92-331-6391791
+- Adress: 8515 Ave Champagnuer,Montreal, Canada H3N2L1
+- Age: 27
+- Degree: Post-Graduation Certification
+- Email: zeeshandotyousaf@gmail.com
+- Freelance: Available
+- An avid team worker, who is always ready to help his fellow developers with his experience, and gets along well along with his teammates due to excellent communication skills, which help in achieving the desired results with all types of clients and colleagues.
 
 Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
 AngularJS-powered HTML5 Markdown editor.
@@ -39,7 +53,7 @@ As [John Gruber] writes on the [Markdown site][df1]
 > looking like it's been marked up with tags
 > or formatting instructions.
 
-This text you see here is *actually- written in Markdown! To get a feel
+This text you see here is \*actually- written in Markdown! To get a feel
 for Markdown's syntax, type some text into the left window and
 watch the results in the right.
 
@@ -85,14 +99,14 @@ NODE_ENV=production node app
 Dillinger is currently extended with the following plugins.
 Instructions on how to use them in your own application are linked below.
 
-| Plugin | README |
-| ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+| Plugin           | README                                    |
+| ---------------- | ----------------------------------------- |
+| Dropbox          | [plugins/dropbox/README.md][pldb]         |
+| GitHub           | [plugins/github/README.md][plgh]          |
+| Google Drive     | [plugins/googledrive/README.md][plgd]     |
+| OneDrive         | [plugins/onedrive/README.md][plod]        |
+| Medium           | [plugins/medium/README.md][plme]          |
+| Google Analytics | [plugins/googleanalytics/README.md][plga] |
 
 ## Development
 
@@ -175,30 +189,27 @@ MIT
 
 **Free Software, Hell Yeah!**
 
-[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
+[//]: # "These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax"
+[dill]: https://github.com/joemccann/dillinger
+[git-repo-url]: https://github.com/joemccann/dillinger.git
+[john gruber]: http://daringfireball.net
+[df1]: http://daringfireball.net/projects/markdown/
+[markdown-it]: https://github.com/markdown-it/markdown-it
+[ace editor]: http://ace.ajax.org
+[node.js]: http://nodejs.org
+[twitter bootstrap]: http://twitter.github.com/bootstrap/
+[jquery]: http://jquery.com
+[@tjholowaychuk]: http://twitter.com/tjholowaychuk
+[express]: http://expressjs.com
+[angularjs]: http://angularjs.org
+[gulp]: http://gulpjs.com
+[pldb]: https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md
+[plgh]: https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md
+[plgd]: https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md
+[plod]: https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md
+[plme]: https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md
+[plga]: https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md
 
-[dill]: <https://github.com/joemccann/dillinger>
-[git-repo-url]: <https://github.com/joemccann/dillinger.git>
-[john gruber]: <http://daringfireball.net>
-[df1]: <http://daringfireball.net/projects/markdown/>
-[markdown-it]: <https://github.com/markdown-it/markdown-it>
-[Ace Editor]: <http://ace.ajax.org>
-[node.js]: <http://nodejs.org>
-[Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
-[jQuery]: <http://jquery.com>
-[@tjholowaychuk]: <http://twitter.com/tjholowaychuk>
-[express]: <http://expressjs.com>
-[AngularJS]: <http://angularjs.org>
-[Gulp]: <http://gulpjs.com>
-
-[PlDb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
-[PlGh]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
-[PlGd]: <https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md>
-[PlOd]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
-[PlMe]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
-[PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
-
-![blog-1](./blog-1.jpg)
 ![blog-3](./blog-2.jpg)
 ![blog-3](./blog-3.jpg)
 ![blog-4](./blog-4.jpg)

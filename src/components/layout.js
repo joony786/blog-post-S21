@@ -20,7 +20,8 @@ const Layout = ({ location, children }) => {
   const twitter = data.site.siteMetadata.social.twitter
 
   return (
-    <div className="layout" data-is-root-path={isRootPath}>
+    // <div className='outer'>
+    <div className="layout " data-is-root-path={isRootPath}>
       <header className="site-header container">
         <div className="logo">
           <Link to="/">Juneate</Link>
@@ -36,6 +37,7 @@ const Layout = ({ location, children }) => {
         </div>
       </footer>
     </div>
+    // </div>
   )
 }
 
