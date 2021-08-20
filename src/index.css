@@ -61,15 +61,20 @@ body {
   content: " ";
   display: block;
   position: absolute;
-  left: 0;
+  /* left: 0;
   top: 0;
   width: 100%;
-  height: 100%;
-  opacity: 0.2;
-  background: url("./images/backgroundHomepage.png");
-  background-repeat: repeat-y;
+  height: 100%; */
+  opacity: 0.3;
+  background: url("./images/profile-img.jpg");
+  /* background-repeat: repeat-y; */
   background-position: 50% 0;
   background-size: contain;
+  background-attachment: fixed;
+  width: 100%;
+  height: 100vh;
+  /* background: url(../img/profile-img.jpg) top center; */
+  background-size: cover;
 }
 
 .inner {
@@ -88,7 +93,7 @@ a {
   text-decoration: none;
 }
 
-ul > li::before {
+section > ul > li::before {
   content: "\003e";
   color: var(--var-blue);
   font-weight: bold;
